@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSTellMeWhy
+  title: Tell Me Why
+  author: GhostSalt
+  description: "I ain't nothing but a heartbreak...\n\r\nEver wanted to hold Tell
+    Me When's big red button? Well now you can! Ever wanted to do that over three
+    stages? No? Just me?\n\nUnfortunately, this module contains Twitch Plays support.
+    I can offer you a towel to cry on if you'd like."
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 344005c2d2a54e847aaa004943d1cb57, type: 3}
